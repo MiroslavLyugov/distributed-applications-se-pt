@@ -1,0 +1,15 @@
+C:\Users\Miros\OneDrive\Desktop\Тест\TextBoard\TextBoard.ApplicationServices\bin\Debug\net7.0\TextBoard.ApplicationServices.deps.json
+C:\Users\Miros\OneDrive\Desktop\Тест\TextBoard\TextBoard.ApplicationServices\bin\Debug\net7.0\TextBoard.ApplicationServices.dll
+C:\Users\Miros\OneDrive\Desktop\Тест\TextBoard\TextBoard.ApplicationServices\bin\Debug\net7.0\TextBoard.ApplicationServices.pdb
+C:\Users\Miros\OneDrive\Desktop\Тест\TextBoard\TextBoard.ApplicationServices\bin\Debug\net7.0\TextBoard.Data.dll
+C:\Users\Miros\OneDrive\Desktop\Тест\TextBoard\TextBoard.ApplicationServices\bin\Debug\net7.0\TextBoard.Data.pdb
+C:\Users\Miros\OneDrive\Desktop\Тест\TextBoard\TextBoard.ApplicationServices\obj\Debug\net7.0\TextBoard.ApplicationServices.csproj.AssemblyReference.cache
+C:\Users\Miros\OneDrive\Desktop\Тест\TextBoard\TextBoard.ApplicationServices\obj\Debug\net7.0\TextBoard.ApplicationServices.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Miros\OneDrive\Desktop\Тест\TextBoard\TextBoard.ApplicationServices\obj\Debug\net7.0\TextBoard.ApplicationServices.AssemblyInfoInputs.cache
+C:\Users\Miros\OneDrive\Desktop\Тест\TextBoard\TextBoard.ApplicationServices\obj\Debug\net7.0\TextBoard.ApplicationServices.AssemblyInfo.cs
+C:\Users\Miros\OneDrive\Desktop\Тест\TextBoard\TextBoard.ApplicationServices\obj\Debug\net7.0\TextBoard.ApplicationServices.csproj.CoreCompileInputs.cache
+C:\Users\Miros\OneDrive\Desktop\Тест\TextBoard\TextBoard.ApplicationServices\obj\Debug\net7.0\TextBoard.ApplicationServices.csproj.CopyComplete
+C:\Users\Miros\OneDrive\Desktop\Тест\TextBoard\TextBoard.ApplicationServices\obj\Debug\net7.0\TextBoard.ApplicationServices.dll
+C:\Users\Miros\OneDrive\Desktop\Тест\TextBoard\TextBoard.ApplicationServices\obj\Debug\net7.0\refint\TextBoard.ApplicationServices.dll
+C:\Users\Miros\OneDrive\Desktop\Тест\TextBoard\TextBoard.ApplicationServices\obj\Debug\net7.0\TextBoard.ApplicationServices.pdb
+C:\Users\Miros\OneDrive\Desktop\Тест\TextBoard\TextBoard.ApplicationServices\obj\Debug\net7.0\ref\TextBoard.ApplicationServices.dll
