@@ -1,0 +1,14 @@
+C:\Users\Miros\OneDrive\Desktop\Тест\TextBoard\TextBoard.Data\bin\Debug\net7.0\TextBoard.Data.deps.json
+C:\Users\Miros\OneDrive\Desktop\Тест\TextBoard\TextBoard.Data\bin\Debug\net7.0\TextBoard.Data.dll
+C:\Users\Miros\OneDrive\Desktop\Тест\TextBoard\TextBoard.Data\bin\Debug\net7.0\TextBoard.Data.pdb
+C:\Users\Miros\OneDrive\Desktop\Тест\TextBoard\TextBoard.Data\obj\Debug\net7.0\TextBoard.Data.csproj.AssemblyReference.cache
+C:\Users\Miros\OneDrive\Desktop\Тест\TextBoard\TextBoard.Data\obj\Debug\net7.0\TextBoard.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Miros\OneDrive\Desktop\Тест\TextBoard\TextBoard.Data\obj\Debug\net7.0\TextBoard.Data.AssemblyInfoInputs.cache
+C:\Users\Miros\OneDrive\Desktop\Тест\TextBoard\TextBoard.Data\obj\Debug\net7.0\TextBoard.Data.AssemblyInfo.cs
+C:\Users\Miros\OneDrive\Desktop\Тест\TextBoard\TextBoard.Data\obj\Debug\net7.0\TextBoard.Data.csproj.CoreCompileInputs.cache
+C:\Users\Miros\OneDrive\Desktop\Тест\TextBoard\TextBoard.Data\obj\Debug\net7.0\TextBoard.Data.dll
+C:\Users\Miros\OneDrive\Desktop\Тест\TextBoard\TextBoard.Data\obj\Debug\net7.0\refint\TextBoard.Data.dll
+C:\Users\Miros\OneDrive\Desktop\Тест\TextBoard\TextBoard.Data\obj\Debug\net7.0\TextBoard.Data.pdb
+C:\Users\Miros\OneDrive\Desktop\Тест\TextBoard\TextBoard.Data\obj\Debug\net7.0\ref\TextBoard.Data.dll
+C:\Users\Miros\OneDrive\Desktop\Тест\TextBoard\TextBoard.Data\bin\Debug\net7.0\TextBoard.Data.runtimeconfig.json
+C:\Users\Miros\OneDrive\Desktop\Тест\TextBoard\TextBoard.Data\obj\Debug\net7.0\TextBoard.Data.genruntimeconfig.cache
