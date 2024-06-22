@@ -1,0 +1,15 @@
+C:\Users\Miros\OneDrive\Desktop\Тест\TextBoard\TextBoard.DataMock\bin\Debug\net7.0\TextBoard.DataMock.deps.json
+C:\Users\Miros\OneDrive\Desktop\Тест\TextBoard\TextBoard.DataMock\bin\Debug\net7.0\TextBoard.DataMock.dll
+C:\Users\Miros\OneDrive\Desktop\Тест\TextBoard\TextBoard.DataMock\bin\Debug\net7.0\TextBoard.DataMock.pdb
+C:\Users\Miros\OneDrive\Desktop\Тест\TextBoard\TextBoard.DataMock\bin\Debug\net7.0\TextBoard.Data.dll
+C:\Users\Miros\OneDrive\Desktop\Тест\TextBoard\TextBoard.DataMock\bin\Debug\net7.0\TextBoard.Data.pdb
+C:\Users\Miros\OneDrive\Desktop\Тест\TextBoard\TextBoard.DataMock\obj\Debug\net7.0\TextBoard.DataMock.csproj.AssemblyReference.cache
+C:\Users\Miros\OneDrive\Desktop\Тест\TextBoard\TextBoard.DataMock\obj\Debug\net7.0\TextBoard.DataMock.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Miros\OneDrive\Desktop\Тест\TextBoard\TextBoard.DataMock\obj\Debug\net7.0\TextBoard.DataMock.AssemblyInfoInputs.cache
+C:\Users\Miros\OneDrive\Desktop\Тест\TextBoard\TextBoard.DataMock\obj\Debug\net7.0\TextBoard.DataMock.AssemblyInfo.cs
+C:\Users\Miros\OneDrive\Desktop\Тест\TextBoard\TextBoard.DataMock\obj\Debug\net7.0\TextBoard.DataMock.csproj.CoreCompileInputs.cache
+C:\Users\Miros\OneDrive\Desktop\Тест\TextBoard\TextBoard.DataMock\obj\Debug\net7.0\TextBoard.DataMock.csproj.CopyComplete
+C:\Users\Miros\OneDrive\Desktop\Тест\TextBoard\TextBoard.DataMock\obj\Debug\net7.0\TextBoard.DataMock.dll
+C:\Users\Miros\OneDrive\Desktop\Тест\TextBoard\TextBoard.DataMock\obj\Debug\net7.0\refint\TextBoard.DataMock.dll
+C:\Users\Miros\OneDrive\Desktop\Тест\TextBoard\TextBoard.DataMock\obj\Debug\net7.0\TextBoard.DataMock.pdb
+C:\Users\Miros\OneDrive\Desktop\Тест\TextBoard\TextBoard.DataMock\obj\Debug\net7.0\ref\TextBoard.DataMock.dll

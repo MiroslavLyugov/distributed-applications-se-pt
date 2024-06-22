@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "frg9xD3dFi2tYDaduzlb0X+jVWyGf3G+HQ8QmPbKxHg=",
+  "Source": "TextBoard.WebAPI",
+  "BasePath": "_content/TextBoard.WebAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
